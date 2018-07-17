@@ -31,7 +31,7 @@ changeBaudRate	KEYWORD2
 changeI2CAddress	KEYWORD2
 setCursor	KEYWORD2
 createChar	KEYWORD2
-setBacklightBrightness KEYWORD2
+setBacklightBrightness	KEYWORD2
 setContrast	KEYWORD2
 #######################################
 # Instances (KEYWORD2)
